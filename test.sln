@@ -12,6 +12,7 @@ Hello
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
+        EndGlobal
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{72A74CD6-9A30-45CB-AF98-160B412E7217}.Debug|x64.ActiveCfg = Debug|x64
 		{72A74CD6-9A30-45CB-AF98-160B412E7217}.Debug|x64.Build.0 = Debug|x64
